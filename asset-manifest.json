@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toggle-button/static/css/main.8a0888b2.css",
+    "main.js": "/toggle-button/static/js/main.75c84521.js",
+    "static/js/787.bf90b61e.chunk.js": "/toggle-button/static/js/787.bf90b61e.chunk.js",
+    "index.html": "/toggle-button/index.html",
+    "main.8a0888b2.css.map": "/toggle-button/static/css/main.8a0888b2.css.map",
+    "main.75c84521.js.map": "/toggle-button/static/js/main.75c84521.js.map",
+    "787.bf90b61e.chunk.js.map": "/toggle-button/static/js/787.bf90b61e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a0888b2.css",
+    "static/js/main.75c84521.js"
+  ]
+}
